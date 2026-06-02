@@ -4,11 +4,10 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    background: #111;
-    color: white;
-    line-height: 1.6;
+.turret-road-extralight {
+  font-family: "Turret Road", sans-serif;
+  font-weight: 200;
+  font-style: normal;
 }
 
 header {
